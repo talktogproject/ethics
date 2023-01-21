@@ -2,10 +2,10 @@
 
 1. [What is Research Integrity?](integrity.md)
 2. **Example: The TalkTogether Approach**
-3. [Section I Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_3wvwGXZjUB6o9OR) *password required*
+3. [Section I Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_77q8eZ2E06k1bHo) *password required*
 4. [Research Misconduct](integrity-misconduct.md)
 5. [International Collaborations and Ethics Dumping](integrity-global.md)
-6. [Section I Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_d6HJBBv5qkK7NgF) *password required*
+6. [Section I Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_eaL4qToXaklZfcq) *password required*
 
 ## Example: The TalkTogether approach
 
@@ -17,7 +17,7 @@ For example, here are the ways that research integrity is upheld by the TalkToge
 * We create extensive written documentation of our study protocols and key decisions made by the research team, with an aim to produce tools and protocols for public use.
 
 ### **Within our organizations and academic institutions**
-* We apply for ethics approval from each of the institutions involved. Currently, they are The Promise Foundation's ethics committee, an ad-hoc ethics committee for the University of the Philippines - Diliman, and the [University of Oxford's CUREC](https://researchsupport.admin.ox.ac.uk/governance/ethics).
+* We apply for ethics approval from each of the institutions involved. Currently, they are The Promise Foundation's ethics committee and the [University of Oxford's CUREC](https://researchsupport.admin.ox.ac.uk/governance/ethics).
 * Changes in the research protocol, if any, should be raised with the same ethics committees listed above.
 * The University of Oxford provides [guidance on how to report research misconduct through multiple channels](https://researchsupport.admin.ox.ac.uk/governance/integrity/misconduct#collapse390836).
 
@@ -32,5 +32,5 @@ For example, here are the ways that research integrity is upheld by the TalkToge
 
 Are you following so far? Please take a short quiz before going further:
 
-## NEXT: [Take Quiz 1 of Section I on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_3wvwGXZjUB6o9OR)
+## NEXT: [Take Quiz 1 of Section I on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_77q8eZ2E06k1bHo)
 ### [Click to view the Course Navigation page](toc.md)
