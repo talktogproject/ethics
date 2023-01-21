@@ -2,10 +2,10 @@
 
 1. [Core Principles](endto.md)
 2. **Planning Your Study**
-3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV) *password required*
+3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_9KzfIiQ1JzPVF30) *password required*
 4. [Implementing Your Study](endto-during.md)
 5. [Processing Your Data](endto-after.md)
-6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7) *password required*
+6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_2i6gHopTXrVjlsO) *password required*
 
 ## Planning Your Study
 
@@ -88,7 +88,7 @@ In certain cases, consent might be taken orally with an audio recorder or with a
 
 Although many research committees consider parental or caregiver consent to be enough for child participants, it is also ideal to gain assent from the children participating in the study. Assent from a child is an active agreement to participate in the research study. Ways of gaining assent will differ depending on the age of the child. For example, a teenager may be able to read and sign an assent form, but for a younger child, the researcher may need to explain what is happening orally and/or with the aid of pictures.
 
-Many universities have templates for participant information sheets and consent (and assent) forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101), approved procedures for [non-invasive research methods with children recruited via an organisation](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/ap#collapse397151), and a best practice guide for [collecting data online](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse394966) wherein researchers may not have any direct contact with participants.
+Many universities have templates for participant information sheets and consent (and assent) forms that you could freely download; for example, here is a website where you can find [English language templates used at The University of Oxford](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse281101), approved procedures for [researching teachers and teaching in education settings](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/ap#collapse397146), and a best practice guide for [collecting data online](https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#collapse394966) wherein researchers may not have any direct contact with participants.
 
 Check if your research group, organization, or ethics committee has required or preferred templates. Also, don't forget to plan for the time and effort it takes to write these materials in the participants' or communities' local language(s).
 
@@ -114,5 +114,5 @@ Submitting an ethics application for review and keeping your ethics committee in
 
 Ethics does not end with planning and getting ethics approval. It continues during the implementation of the study and after that. But before we proceed, how about a quiz?
 
-## NEXT: [Take Quiz 1 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV)
+## NEXT: [Take Quiz 1 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_9KzfIiQ1JzPVF30)
 ### [Click to view the Course Navigation page](toc.md)
