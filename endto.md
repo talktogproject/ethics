@@ -2,14 +2,14 @@
 
 1. **Core Principles**
 2. [Planning Your Study](endto-before.md)
-3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV) *password required*
+3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_9KzfIiQ1JzPVF30) *password required*
 4. [Implementing Your Study](endto-during.md)
 5. [Processing Your Data](endto-after.md)
-6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7) *password required*
+6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_2i6gHopTXrVjlsO) *password required*
 
 ## Core Principles
 
-As stated in the British Psychological Association (BPS) Code of Human Research Ethics<sup>[1](https://www.bps.org.uk/sites/bps.org.uk/files/Policy/Policy%20-%20Files/BPS%20Code%20of%20Human%20Research%20Ethics.pdf)</sup>:
+As stated in the British Psychological Association (BPS) Code of Human Research Ethics<sup>[1](https://www.bps.org.uk/guideline/bps-code-human-research-ethics)</sup>:
 
 > Good research "is only possible if there is mutual respect and trust between investigators and participants." (p.4 )
 
