@@ -2,16 +2,16 @@
 
 1. [Core Principles](endto.md)
 2. [Planning Your Study](endto-before.md)
-3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6DPYZYDwcKEhuWV) *password required*
+3. [Section II Quiz 1 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_9KzfIiQ1JzPVF30) *password required*
 4. [Implementing Your Study](endto-during.md)
 5. **Processing Your Data**
-6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7) *password required*
+6. [Section II Quiz 2 (on Qualtrics)](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_2i6gHopTXrVjlsO) *password required*
 
 ## Processing Your Data
 
-As part of your research, you are probably creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain participants' privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the GDPR (General Data Protection Regulation) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations can be adopted for research in their respective areas.
+As part of your research, you are probably creating, encoding, storing, analysing, and archiving data about individuals. This comes with the responsibility to maintain participants' privacy and to use data about them in a fair and responsible way. In the United Kingdom and the European Union, the [GDPR (General Data Protection Regulation)](https://gdpr-info.eu/) provides a legal framework for doing so. We will use GDPR-related terminology in this section; however, we think that researchers from non-EU countries can also think about how these regulations can be adopted for research in their respective areas.
 
-The kind of research that child researchers do often involves the processing of _personal data_.<sup>[1](https://researchsupport.admin.ox.ac.uk/files/dataprotectionandresearchpdf)</sup>
+Child-based research does often involve the processing of _personal data_.<sup>[1](https://researchsupport.admin.ox.ac.uk/files/dataprotectionandresearchpdf)</sup>
 
 > Personal data is information which relates to a living individual who can be identified from that information,  whether  directly  or  indirectly,  and  in  particular  by  reference  to  an  identifier. 
 
@@ -94,5 +94,5 @@ As you can see, research integrity and ethics cover every stage of the research 
 
 This may be a lot of information to digest now but applying these research integrity and ethical principles can make your research more rigorous and trustworthy overall.
 
-## NEXT: [Take Quiz 2 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_6hy3n0uxR65TyV7)
+## NEXT: [Take Quiz 2 of Section II on Qualtrics](https://oxfordeducation.eu.qualtrics.com/jfe/form/SV_2i6gHopTXrVjlsO)
 ### [Click to view the Course Navigation page](toc.md)
