@@ -6,7 +6,7 @@
 ### Course objectives
 
 -	Develop essential knowledge of research integrity
-- Become aware of ethical considerations in studies involving students and teachers in low- to middle-income countries
+- Become aware of ethical considerations in studies involving children in low- to middle-income countries
 -	Discuss instances of ethical breaches and dilemmas, how to avoid them, and what to do when they do occur
 -	Prepare research staff for data collection conducted in home, school, and community settings
 
