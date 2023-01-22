@@ -20,5 +20,7 @@
 - [Introduction](intro.md)
 - [Section I: Research Integrity](integrity.md)
 - [Section II: Ethics from End to End](endto.md)
+- [Section III: Live Discussion and Q&A](discussion.md)
+
 
 ## LET'S GO! [Click to begin the online course](intro.md)
